@@ -1,5 +1,5 @@
 # Flight Classification
-Deep learning model to classify flights
+Deep learning model to classify flight images.
 
 ## Dataset
 
