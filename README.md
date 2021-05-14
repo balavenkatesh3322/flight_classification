@@ -19,4 +19,4 @@ You can checkout **Flight Prediction.ipynb** Colab Notebook to see the image pre
 
 ## Model Performance(Confusion Matrix)
 
-<img src="./confusion_matrix.png" width="500" height="300">
+<img src="./confusion_matrix.png" width="500" height="500">
